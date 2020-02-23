@@ -1,6 +1,7 @@
 function cengcifenxi()
 disp('ÇëÊäÈëÅĞ¶Ï¾ØÕóA(n½×)');
 A=input('A=');
+% ÎûÎûÎû
 [n,n]=size(A);
 x=ones(n,100);
 y=ones(n,100);
