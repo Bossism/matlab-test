@@ -1,7 +1,7 @@
 function cengcifenxi()
 disp('请输入判断矩阵A(n阶)');
 A=input('A=');
-% 瞎搞
+% 我是小敏宝 可爱又傲娇
 [n,n]=size(A);
 x=ones(n,100);
 y=ones(n,100);
